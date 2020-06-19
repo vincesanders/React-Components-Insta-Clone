@@ -2,7 +2,7 @@
   height: 50%;
   width: 33%;
   min-width: 400px;
-  margin: 5px auto;
+  margin: 65px auto 5px auto;
 }
 .post-header{
   display: flex;
@@ -53,4 +53,9 @@
   width: 100px;
   margin: 15px 0px;
   font-size: 16px;
+}
+
+.liked-by-user {
+  color: red;
+  font-weight: bold;
 }
